@@ -1,7 +1,7 @@
 # My first Github Pages
 
 ## Introduction
-I am Selina. This website is created when I am studying a fantastic course in Columbia University. More information about this course: ![Hack the Planet]( https://eaton-lab.org/hack-the-planet).**:D**
+I am Selina. This website is created when I am studying a fantastic course in Columbia University. More information about this course: [Hack the Planet](https://eaton-lab.org/hack-the-planet).**:D**
 
 ## Fun Facts about me
 * I love gelato, especially pistachio flavored.
